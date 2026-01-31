@@ -11,6 +11,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.28.2",
   "dependencies": {
-    "gpt-3-encoder": "^1.1.4"
+    "tiktoken": "^1.0.22"
   }
 }
