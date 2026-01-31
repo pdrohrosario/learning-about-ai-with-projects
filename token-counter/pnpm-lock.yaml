@@ -8,15 +8,15 @@ importers:
 
   .:
     dependencies:
-      tiktoken:
-        specifier: ^1.0.22
-        version: 1.0.22
+      gpt-3-encoder:
+        specifier: ^1.1.4
+        version: 1.1.4
 
 packages:
 
-  tiktoken@1.0.22:
-    resolution: {integrity: sha512-PKvy1rVF1RibfF3JlXBSP0Jrcw2uq3yXdgcEXtKTYn3QJ/cBRBHDnrJ5jHky+MENZ6DIPwNUGWpkVx+7joCpNA==}
+  gpt-3-encoder@1.1.4:
+    resolution: {integrity: sha512-fSQRePV+HUAhCn7+7HL7lNIXNm6eaFWFbNLOOGtmSJ0qJycyQvj60OvRlH7mee8xAMjBDNRdMXlMwjAbMTDjkg==}
 
 snapshots:
 
-  tiktoken@1.0.22: {}
+  gpt-3-encoder@1.1.4: {}
